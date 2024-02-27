@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on different projects .
 - 📫 How to reach me (insta-suyashbhushan)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i like startups but will never start one .
+- ⚡ Fun fact: i like startups but will never start one soon
 
 <!---
 suyash0303/suyash0303 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
