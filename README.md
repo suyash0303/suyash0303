@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suyash0303
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning c++ 
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on different projects 
 - 📫 How to reach me (insta-suyashbhushan)
 - 😄 Pronouns: he/him
